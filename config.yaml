@@ -1,3 +1,4 @@
 cloud:
   name: 'AWS'
   region: 'us-east-1'
+  key: AKIA1234567890123456
