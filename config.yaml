@@ -2,4 +2,4 @@ cloud:
   name: 'AWS'
   region: 'us-east-1'
   key: AKIA1234567890123456
-  secret: BAKIA1234567890123456
+  secret: AKIA1234567890123457
